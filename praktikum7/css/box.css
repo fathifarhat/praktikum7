@@ -1,0 +1,36 @@
+.box1{
+    background-color: aqua;
+    width: 20%;
+    margin-right: 5%;
+    height: 800px;
+    margin-top: 5%;
+}
+
+.box2{
+    background-color: brown;
+    width: 20%;
+    margin-right: 5%;
+    height: 800px;
+    margin-top: 5%;
+}
+
+.box3{
+    background-color: azure;
+    width: 20%;
+    margin-right: 5%;
+    height: 800px;
+    margin-top: 5%;
+}
+
+.box4{
+    background-color: black;
+    width: 20%;
+    margin-right: 5%;
+    height: 800px;
+    margin-top: 5%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
